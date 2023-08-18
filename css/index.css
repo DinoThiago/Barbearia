@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: white;
+}
+
+.caixa{
+    position: absolute;
+    width: 940px;
+    margin: 0 auto;
+    padding-left: 40px;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #c78c19;
+}
